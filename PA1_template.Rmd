@@ -2,9 +2,6 @@ Reproducible Research: Peer Assessment 1
 -----------------------------------------
 
 ### Loading and preprocessing the data
-```{r directory, echo=FALSE }
-setwd("/home/alexander/Escritorio/Data_Scientist_Speciality/ReproResearch/PeerAssessment_1")
-```
 
 ```{r}
 rm(list=ls())
