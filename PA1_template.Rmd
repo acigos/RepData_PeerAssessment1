@@ -3,7 +3,7 @@ Reproducible Research: Peer Assessment 1
 
 ### Loading and preprocessing the data
 ```{r directory, echo=FALSE }
-setwd("/home/alexander/Escritorio/Data_Scientist_Speciality/ReproResearch/PeerAssessment 1")
+setwd("/home/alexander/Escritorio/Data_Scientist_Speciality/ReproResearch/PeerAssessment_1")
 ```
 
 ```{r}
@@ -112,3 +112,25 @@ ggplot(a, aes(x = interval, y = steps)) +
 ```
 
 
+=======
+# Reproducible Research: Peer Assessment 1
+
+
+## Loading and preprocessing the data
+
+
+
+## What is mean total number of steps taken per day?
+
+
+
+## What is the average daily activity pattern?
+
+
+
+## Imputing missing values
+
+
+
+## Are there differences in activity patterns between weekdays and weekends?
+>>>>>>> dc20c7c4e92aea6af318a611e2669d5b9c6cbfaf

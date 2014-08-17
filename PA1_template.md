@@ -3,15 +3,6 @@ Reproducible Research: Peer Assessment 1
 
 ### Loading and preprocessing the data
 
-```
-## 
-## 
-## processing file: PA1_template.Rmd
-```
-
-```
-## Error: duplicate label 'directory'
-```
 
 
 ```r
@@ -207,3 +198,25 @@ ggplot(a, aes(x = interval, y = steps)) +
 ![plot of chunk unnamed-chunk-11](figure/unnamed-chunk-11.png) 
 
 
+=======
+# Reproducible Research: Peer Assessment 1
+
+
+## Loading and preprocessing the data
+
+
+
+## What is mean total number of steps taken per day?
+
+
+
+## What is the average daily activity pattern?
+
+
+
+## Imputing missing values
+
+
+
+## Are there differences in activity patterns between weekdays and weekends?
+>>>>>>> dc20c7c4e92aea6af318a611e2669d5b9c6cbfaf
